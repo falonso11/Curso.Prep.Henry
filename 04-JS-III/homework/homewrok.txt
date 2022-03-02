@@ -1,0 +1,3 @@
+Arrays
+
+Conjunto de datos almacenados, que se pueden utilizar cuando nosotros lo necesitemos.
