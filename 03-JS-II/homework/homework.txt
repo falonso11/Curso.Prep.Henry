@@ -1,0 +1,12 @@
+* `for`
+Se utiliza para repetir una o mas instrucciones un determinado numero de veces, sabiendo la cantidad de veces que queremos que se ejecute.
+
+* `&&` and
+Se utiliza para evaluar las expresiones, lo que le estamos diciendo. Dependiendo si se cumplen o no, determina si es true o false.
+
+`||` or
+Determinará si una de las expresiones es `true`. Devolverá `true` si una (o ambas) de las expresiones es` true`. Devolverá `false` si AMBAS expresiones son` false`
+
+`!` no
+
+Devuelve lo opuesto a lo que se pone en la expresiones.
