@@ -1,0 +1,2 @@
+Funciones Callback
+Son funciones que se utilizan en un determinado momento o evento. Se ejecuta si son solicitadas para algun evento.
