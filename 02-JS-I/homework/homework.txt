@@ -1,0 +1,17 @@
+* Variables
+Es un espacio en memoria donde se almacena un dato.
+Se puede pensar como si fuera una caja donde guardamos algo.
+
+
+* Strings
+Es una cadena de texto (palabras) que van entre comillas.
+
+* Funciones (argumentos, `return`)
+Son similares a un procedimiento, dentro de ese procedimiento indicas que queres que realice.
+Le das una entrada y luego ese procedimiento tiene que tener una salida, o que retorne algun valor.
+
+* Declaraciones `if`
+Te permiten determinar que tipo de codigo (procedimiento se va a utilizar) dependiendo de lo que se necesite.
+
+* Valores booleanos (`true`, `false`)
+Evalua y determina como resultado verdadero o falso.
