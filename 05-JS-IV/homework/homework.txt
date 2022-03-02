@@ -1,0 +1,18 @@
+* Objetos
+Contienen mucha infomacion, pero solamente de una sola cosa. Diferente a los arrays. Y se colocan entre {}
+    
+* Propiedades
+Son valores que estan asociados con los objetos.
+	
+    
+* Métodos
+Lo utilizamos para realizar algo con una funcion.
+    
+* Bucle `for…in`
+Recorre las Propiedades	de un objeto, y pasa todas una por una. de esa forma podemos acceder a la/s que necesitamos.
+    
+* Notación de puntos 
+se utiliza y funciona con nombres identificados y validos de una variable
+
+* Notación de corchetes
+espera una expresion, que se evaluda como una cadena.
