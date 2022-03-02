@@ -1,0 +1,7 @@
+* `prototype`
+Es una propiedad que tienen todos los objetos, y representa a cada un prototipo de cada objeto. De esa forma se le pueden aplicar metodos.
+Los objetos heredan caracteristicas entre si.
+
+* _Constructors_ (de Clases)
+
+Es un metodo, que se utiliza para crear e inicializar un objeto creado a partir de una clase.
